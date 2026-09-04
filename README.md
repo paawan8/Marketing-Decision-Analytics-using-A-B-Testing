@@ -355,5 +355,5 @@ sqlite3 sql/ab_testing.db < sql/ab_test_queries.sql
 ## Author
 
 **Paawan Chandrakar**
-GitHub: [@paawan8]((https://github.com/paawan8))
+GitHub: [@paawan8](https://github.com/paawan8)
 
